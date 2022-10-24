@@ -1,0 +1,17 @@
+{
+  "name": "fp-ts-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fp-ts": "^2.13.1",
+    "fp-ts-std": "^0.15.0",
+    "monocle-ts": "^2.3.13"
+  }
+}
