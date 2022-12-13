@@ -12,6 +12,8 @@
   "dependencies": {
     "fp-ts": "^2.13.1",
     "fp-ts-std": "^0.15.0",
+    "io-ts": "^2.2.20",
+    "io-ts-types": "^0.5.19",
     "monocle-ts": "^2.3.13"
   },
   "devDependencies": {
